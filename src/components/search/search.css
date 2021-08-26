@@ -1,0 +1,32 @@
+.container {
+  width: 90%;
+  margin: 40px auto 0 auto;
+}
+.container .css-2b097c-container .css-15pmuok-control {
+  border-style: none;
+  box-shadow: 1px 3px 6px hsl(180, 8%, 52%);
+}
+@media screen and (min-width: 768px) {
+  .container {
+    width: 60%;
+    position: absolute;
+    top: 30px;
+    left: 170px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .container {
+    width: 60%;
+    position: absolute;
+    top: 60px;
+    left: 220px;
+  }
+}
+@media screen and (min-width: 1300px) {
+  .container {
+    width: 68%;
+    position: absolute;
+    top: 100px;
+    left: 220px;
+  }
+}
